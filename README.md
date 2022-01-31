@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic">
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+<img src="https://img.shields.io/badge/-Postman-FF6C37.svg?logo=postman&style=plastic">
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![git](https://img.shields.io/badge/-git-F05032?style=flat&logo=git&logoColor=white)
