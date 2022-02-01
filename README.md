@@ -47,6 +47,7 @@
 <img src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&style=plastic">
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![git](https://img.shields.io/badge/-git-F05032?style=flat&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/-Qiita-55C500.svg?logo=qiita&style=plastic">
 ![vscode](https://img.shields.io/badge/-vscode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 <!--
