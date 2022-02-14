@@ -33,7 +33,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=plastic">
-<img src="https://img.shields.io/badge/-Webpack-8DD6F9.svg?logo=webpack&style=plastic">
 <img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=plastic">
 <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=plastic">
 <img src="https://img.shields.io/badge/-Circleci-343434.svg?logo=circleci&style=plastic">
