@@ -49,6 +49,7 @@
 ![git](https://img.shields.io/badge/-git-F05032?style=flat&logo=git&logoColor=white)
 <img src="https://img.shields.io/badge/-Qiita-55C500.svg?logo=qiita&style=plastic">
 ![vscode](https://img.shields.io/badge/-vscode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=plastic">
 
 <!--
 **akira-iguchi/akira-iguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
