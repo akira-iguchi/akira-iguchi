@@ -17,7 +17,6 @@
   </a>
 </p>
 
-<!-- <img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=plastic"> -->
 
 ## 🌱 I’m learning ...
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -39,6 +38,7 @@
 <img src="https://img.shields.io/badge/-Circleci-343434.svg?logo=circleci&style=plastic">
 <img src="https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&style=plastic">
 <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic">
+<img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=plastic">
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 <img src="https://img.shields.io/badge/-Postman-FF6C37.svg?logo=postman&style=plastic">
