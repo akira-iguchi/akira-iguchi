@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=plastic">
 <img src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=plastic">
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=plastic">
 <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=plastic">
 <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic">
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
